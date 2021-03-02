@@ -1,7 +1,6 @@
 ## 欢迎来到35628club
 
 现在这里还什么都没有，因为我什么都没做
-You can use the [editor on GitHub](https://github.com/nighty35628/nighty35628.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
