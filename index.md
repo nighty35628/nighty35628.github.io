@@ -12,4 +12,4 @@ wl的博客：[日月忽其不淹兮](http://139.224.30.127/)
 
 nightytale下载：[好耶！](http://139.224.30.127/files/nightytale_1.0.apk)
 
-<script type="text/javascript">window.location.href="https://ihtcboy.com";</script>
+<script type="text/javascript">window.location.href="https://baidu.com";</script>
